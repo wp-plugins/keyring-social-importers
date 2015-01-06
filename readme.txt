@@ -1,7 +1,7 @@
 === Keyring Social Importers ===
 Tags: import, sync, social, keyring, delicious, flickr, foursquare, instagram, instapaper, tripit, twitter
 Requires at least: 3.3
-Tested up to: 4.0
+Tested up to: 4.1
 Stable Tag: 1.4
 
 Take back control of the content you are creating on other social websites.
